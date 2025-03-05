@@ -42,5 +42,5 @@ Suivez ensuite les instructions affichées à l'écran pour effectuer des calcul
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à proposer une pull request.
 
 ## Licence
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
 
